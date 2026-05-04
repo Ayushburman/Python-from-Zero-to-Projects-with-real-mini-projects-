@@ -92,3 +92,12 @@ bool
 NoneType
 Type Casting
 Type Checking (type(), isinstance())
+
+3. Operators
+Arithmetic Operators
+Comparison Operators
+Logical Operators
+Assignment Operators
+Bitwise Operators
+Membership Operators (in, not in)
+Identity Operators (is, is not)
