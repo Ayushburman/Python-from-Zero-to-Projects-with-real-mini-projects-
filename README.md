@@ -126,3 +126,14 @@ Creation and Access
 Slicing
 Methods (append, extend, insert, remove, etc.)
 List Comprehension
+
+Tuples
+Immutable sequences
+Packing and Unpacking
+Sets
+Unique elements
+Set Operations (union, intersection, difference)
+Dictionaries
+Key-value pairs
+Access and Modification
+Dictionary Methods
