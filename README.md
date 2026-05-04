@@ -144,3 +144,13 @@ Indexing and Slicing
 String Methods
 String Formatting
 Regular Expressions (intro)
+
+8. Functions
+Defining Functions
+Parameters and Arguments
+Return Values
+Default Arguments
+Keyword Arguments
+Variable-length Arguments (*args, **kwargs)
+Lambda Functions
+Recursion
