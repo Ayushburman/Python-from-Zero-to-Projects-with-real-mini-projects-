@@ -74,4 +74,10 @@ Its simplicity, combined with its wide range of applications, makes it an essent
 
 
 ----
-
+1. Fundamentals
+Introduction to Python
+Installation and Setup
+Running Python (REPL, scripts)
+Syntax and Indentation
+Comments and Documentation Strings
+Keywords and Identifiers
