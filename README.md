@@ -8,4 +8,5 @@ It supports multiple programming paradigms, including procedural, object-oriente
 ## Why Do We Need Python?
 
 Python addresses several key challenges in software development:
-
+- **Ease of Learning**: Its simple and readable syntax makes it accessible to beginners.
+- **Rapid Development**: Developers can build and test applications quickly.
