@@ -35,3 +35,6 @@ Python is capable of handling a wide range of tasks:
 - Develop machine learning and AI models
 - Analyze and visualize large datasets  
 - Develop machine learning and AI models  
+- Automate system tasks and file handling  
+- Create desktop applications  
+- Work with databases and APIs  
