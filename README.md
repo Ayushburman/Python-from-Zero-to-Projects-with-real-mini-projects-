@@ -7,7 +7,6 @@ Python is a high-level, interpreted programming language known for its simplicit
 It supports multiple programming paradigms, including procedural, object-oriented, and functional programming.
 
 ---
-
 ## Why Do We Need Python?
 
 Python addresses several key challenges in software development:
