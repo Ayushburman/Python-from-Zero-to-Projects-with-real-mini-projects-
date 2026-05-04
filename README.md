@@ -38,3 +38,5 @@ Python is capable of handling a wide range of tasks:
 - Automate system tasks and file handling  
 - Create desktop applications  
 - Work with databases and APIs  
+- Develop network-based applications  
+- Perform scientific and numerical computing  
