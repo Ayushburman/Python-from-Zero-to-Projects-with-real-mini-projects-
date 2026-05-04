@@ -32,4 +32,6 @@ Python is capable of handling a wide range of tasks:
 
 - Build web applications and backend systems  
 - Analyze and visualize large datasets  
+- Develop machine learning and AI models
+- Analyze and visualize large datasets  
 - Develop machine learning and AI models  
