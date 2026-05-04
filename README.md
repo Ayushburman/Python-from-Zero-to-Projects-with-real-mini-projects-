@@ -101,3 +101,11 @@ Assignment Operators
 Bitwise Operators
 Membership Operators (in, not in)
 Identity Operators (is, is not)
+
+4. Input and Output
+input() function
+print() function
+Formatting Output:
+f-strings
+.format()
+% formatting
