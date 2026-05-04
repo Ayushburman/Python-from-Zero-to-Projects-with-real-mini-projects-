@@ -26,4 +26,9 @@ Python is widely used across industries due to its flexibility:
 - **Game Development**: Prototyping and game logic
 - - **Internet of Things (IoT)**: Controlling hardware and embedded systems
 - **Finance**: Algorithmic trading and financial analysis
+- ## What Can Python Do?
+
+Python is capable of handling a wide range of tasks:
+
+- Build web applications and backend systems  
 
