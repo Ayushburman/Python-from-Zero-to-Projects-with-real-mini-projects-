@@ -43,3 +43,8 @@ Python is capable of handling a wide range of tasks:
 - Its flexibility allows it to be used in both small scripts and large-scale enterprise systems.
 
 ---
+## Future of Python
+
+Python continues to grow in relevance and demand due to:
+
+- Increasing adoption in artificial intelligence and machine learning
