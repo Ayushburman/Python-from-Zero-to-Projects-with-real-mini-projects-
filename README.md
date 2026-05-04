@@ -137,3 +137,10 @@ Dictionaries
 Key-value pairs
 Access and Modification
 Dictionary Methods
+
+7. Strings
+String Operations
+Indexing and Slicing
+String Methods
+String Formatting
+Regular Expressions (intro)
