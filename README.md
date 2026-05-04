@@ -24,3 +24,6 @@ Python is widely used across industries due to its flexibility:
 - **Automation & Scripting**: Automating repetitive tasks and workflows
 - **Cybersecurity**: Penetration testing and security tools
 - **Game Development**: Prototyping and game logic
+- - **Internet of Things (IoT)**: Controlling hardware and embedded systems
+- **Finance**: Algorithmic trading and financial analysis
+
