@@ -18,3 +18,5 @@ Python addresses several key challenges in software development:
 
 ## Real-Life Applications of Python
 Python is widely used across industries due to its flexibility:
+- **Web Development**: Building scalable websites and APIs (e.g., Django, Flask)
+- **Data Science & Analytics**: Data analysis, visualization, and statistical modeling
