@@ -154,3 +154,10 @@ Keyword Arguments
 Variable-length Arguments (*args, **kwargs)
 Lambda Functions
 Recursion
+
+9. Modules and Packages
+Importing Modules
+Standard Library Overview
+Creating Custom Modules
+Packages and __init__.py
+10. File Handling
