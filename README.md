@@ -109,3 +109,20 @@ Formatting Output:
 f-strings
 .format()
 % formatting
+
+5. Control Flow
+if, elif, else
+Nested Conditions
+for loops
+while loops
+Loop Control:
+break
+continue
+pass
+
+6. Data Structures
+Lists
+Creation and Access
+Slicing
+Methods (append, extend, insert, remove, etc.)
+List Comprehension
