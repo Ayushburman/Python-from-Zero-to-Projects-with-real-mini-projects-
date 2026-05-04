@@ -81,3 +81,14 @@ Running Python (REPL, scripts)
 Syntax and Indentation
 Comments and Documentation Strings
 Keywords and Identifiers
+
+2. Variables and Data Types
+Variables and Assignment
+Dynamic Typing
+Built-in Data Types:
+int, float, complex
+str
+bool
+NoneType
+Type Casting
+Type Checking (type(), isinstance())
