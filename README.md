@@ -10,3 +10,5 @@ It supports multiple programming paradigms, including procedural, object-oriente
 Python addresses several key challenges in software development:
 - **Ease of Learning**: Its simple and readable syntax makes it accessible to beginners.
 - **Rapid Development**: Developers can build and test applications quickly.
+- **Cross-Platform Compatibility**: Python runs on multiple operating systems without modification.
+- **Extensive Libraries**: A vast ecosystem reduces the need to write code from scratch.
